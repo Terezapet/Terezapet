@@ -1,6 +1,4 @@
 ## Tereza Petrovicova
 
-Hello! I am Tereza, a Ph.D. candidate in Political Science at UC San Diego. 
-My research centers on the political economy of the energy transition, particularly on the intersection of business and politics. 
-In particular, I am interested in how lobbying and related factors influence the location of renewable energy projects, such as solar and wind, and the broader implications for communities.
-In my work, I employ computational social science methods, utilizing tools such as Geographic Information Systems (GIS) and text analysis.
+Welcome! I am a Ph.D. candidate in Political Science at UC San Diego, studying the political economy of the energy transition. My research focuses on how state and local politics shape renewable energy deployment, including the ways political institutions can both enable and constrain investment, coordination, and local regulation. I am also a member of the Power Transformation Lab at UC San Diego, where I collaborate with engineers and policy researchers on interdisciplinary energy projects. <img width="468" height="122" alt="image" src="https://github.com/user-attachments/assets/ab679057-a75f-4789-bb44-6adb8c1642ba" />
+
